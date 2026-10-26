@@ -8,7 +8,7 @@ export default function AboutSection() {
     <section className="about"><div className="wrap">
       <Title h="About the Purohit" />
       <div className="about-g">
-        <Reveal><div className="photo"><div><div style={{ fontSize: 48 }}>ॐ</div>need to updsate photo</div></div></Reveal>
+        <Reveal><div className="photo"><div><div style={{ fontSize: 48 }}>ॐ</div>need to update photo</div></div></Reveal>
         <Reveal delay={0.1}>
           <h3 style={{ fontSize: 34, color: "#fff" }}>{NAME}</h3>
           <p style={{ marginTop: 12 }}>{ABOUT_TEXT}</p>
